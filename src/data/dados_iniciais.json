@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Tormenta20",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "", 
+        "url": "" 
       },
       "videos": [
         {
@@ -14,110 +14,94 @@
           "url": "https://www.youtube.com/watch?v=BdfD6yhAFyo&t=5s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Classes do Tormenta20",
+          "url": "https://www.youtube.com/watch?v=6zgvjSpwG1c&t=930s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Raças do Tormenta 20",
+          "url": "https://www.youtube.com/watch?v=M0NdZdpJzZI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Como montar sua ficha de personagem",
+          "url": "https://www.youtube.com/watch?v=psz9hUEIlHc"
+        }     
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Dungeons & Dragons",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Classes de D&D",
+          "url": "https://www.youtube.com/watch?v=OeNLUSpD5No&t=2s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "As raças de D&D",
+          "url": "https://www.youtube.com/watch?v=ept9uJSzCKA&list=PLtUz-RCgJA5FbWfGpCEeQDvJWlV6CgmOp"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Monge D&D",
+          "url": "https://www.youtube.com/watch?v=flzehyh6sMI"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Paladino, vale apena?",
+          "url": "https://www.youtube.com/watch?v=zXf4gkvB60I"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Guia do mestre",
+          "url": "https://www.youtube.com/watch?v=s5k4K4DlYL8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Dicas para deixar sua campanha EMOCIONANTE",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Criando uma campanha",
+          "url": "https://www.youtube.com/watch?v=N6YVpz7UM30"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Cuidados na criação de combate",
+          "url": "https://www.youtube.com/watch?v=mu_eW4J0iU4"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Aventuras insuportaveis...CUIDADO!!",
+          "url": "https://www.youtube.com/watch?v=A4ukLQZO4xc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Dicas para mestrar",
+          "url": "https://www.youtube.com/watch?v=gOcwZcfKK4U"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Filmes e séries",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Senhor dos Anéis A sociedade do anel",
+          "url": "https://www.youtube.com/watch?v=0i86oM1nHjM"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Senhor dos Anéis As duas torres",
+          "url": "https://www.youtube.com/watch?v=8uwJoAj3gt8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Senhor dos Anéis O retorno do rei",
+          "url": "https://www.youtube.com/watch?v=GbR_udDNldI"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "The Witcher",
+          "url": "https://www.youtube.com/watch?v=tjujvMkqWe4"
         }
       ]
     },
