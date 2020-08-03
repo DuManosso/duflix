@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Tormenta 20",
+            "descricao": "RPG BR que veio pra ficar!!",
+            "cor": "#cdb1ff"
+        },
+        {
+            "id": 1,
+            "nome": "Dungeons & Dragons",
+            "descricao": "RPG medieval, um clássico",
+            "cor": "#cdb1ff"
+        }
+    ]
+}
